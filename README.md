@@ -61,3 +61,8 @@ description = "<your site description>"
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## What's new in Flyfriend version?
+
+1. Remove copyright of theme.
+2. Add author of page(not site).
